@@ -13,7 +13,7 @@ Step 3: Determine Sample Size
 Sample Size Calculation:
 
 Use a power analysis to determine the required sample size. Assume:
-Effect size (Cohen's d): 0.5 (medium effect).
+Effect size (Cohen's d): 0.2 (small effect).
 Desired power: 0.8.
 Significance level (α): 0.05.
 Using R for power analysis with the pwr package:
